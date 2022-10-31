@@ -1,0 +1,15 @@
+{
+  "short_name": "Heritage Admin",
+  "name": "Admin Panel of Heritage hotels Pvt.Ltd",
+  "icons": [
+    {
+      "src": "itp logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
